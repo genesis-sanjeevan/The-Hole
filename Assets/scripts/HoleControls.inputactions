@@ -1,0 +1,34 @@
+{
+    "name": "HoleControls",
+    "maps": [
+        {
+            "name": "player",
+            "id": "6b84e544-35d5-4aff-bdc1-35728ce971f6",
+            "actions": [
+                {
+                    "name": "move",
+                    "type": "Value",
+                    "id": "0d9d9b63-28a4-446e-a99a-188a930a0a91",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "eeabb931-733b-41c1-89f1-ee7e9e92d387",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
